@@ -37,4 +37,4 @@ Kod, dinamik programlama ile en düşük toplam süreyi hesaplamak için aşağ�
 
 ## Örnek Çıktı
 
-(ss1.jpg)
+![örnek çıktı](ss1.jpg)
