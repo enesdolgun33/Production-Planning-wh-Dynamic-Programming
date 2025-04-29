@@ -34,3 +34,7 @@ Kod, dinamik programlama ile en düşük toplam süreyi hesaplamak için aşağ�
 - **Dinamik Programlama Tablosu Oluşturma**: Her işin her makineye ait maliyetini depolayan bir dinamik programlama tablosu (`dp`) oluşturulur. Bu tablo, önceki işlerin çözümünü kullanarak her işin çözümünü adım adım hesaplar.
 - **Geçiş Maliyetlerinin Hesaplanması**: Dinamik programlama tablosunda, bir işten diğerine geçerken kullanılan geçiş maliyetleri ve her işin tamamlanma süreleri dikkate alınarak toplam süre hesaplanır.
 - **Sonuç Hesaplama**: Son işin tamamlanması için minimum toplam süre, dinamik programlama tablosundaki sonuçlardan seçilir.
+
+## Örnek Çıktı
+
+(ss1.jpg)
